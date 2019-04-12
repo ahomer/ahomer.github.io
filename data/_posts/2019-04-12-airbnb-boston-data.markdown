@@ -41,7 +41,7 @@ We can find many interesting opinions,sush as
 
 
 
-![png]({{ BASE_PATH }}/assets/images/output_16_1.png)
+![png]({{ site.url }}/assets/images/output_16_1.png)
 
 
 * So we can see the most expensive season is from August to November，especial September and October. 
@@ -116,7 +116,7 @@ We can find many interesting opinions,sush as
 
 
 
-![Sweet Little House in JP, Boston]({{ BASE_PATH }}/assets/images/447826.png)
+![Sweet Little House in JP, Boston]({{ site.url }}/assets/images/447826.png)
 
 #### Clean Listings
 
@@ -128,7 +128,7 @@ Let us calculate the mean/std of 'Price'.
 
 
 
-![png]({{ BASE_PATH }}/assets/images/output_27_1.png)
+![png]({{ site.url }}/assets/images/output_27_1.png)
 
 
 
@@ -152,7 +152,7 @@ Let's try to predict the price based on the columns in the listing we selected.
 
 
 
-![png]({{ BASE_PATH }}/assets/images/output_39_1.png)
+![png]({{ site.url }}/assets/images/output_39_1.png)
 
 
 Top 6 factors strong relation to price:
